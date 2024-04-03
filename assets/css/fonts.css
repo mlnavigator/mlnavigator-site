@@ -1,0 +1,17 @@
+@font-face {
+  font-weight: 400; /* Соответствует значению normal */
+  font-family: UbuntuMono;
+  src: url("assets/fonts/UbuntuMono-Regular.ttf");
+}
+
+@font-face {
+  font-weight: 700; /* Соответствует значению bold */
+  font-family: UbuntuMono;
+  src: url("assets/fonts/UbuntuMono-Bold.ttf");
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: UbuntuMono;
+  src: url("assets/fonts/UbuntuMono-Light.ttf");
+}
