@@ -42,7 +42,10 @@ div.video {
 	margin-top: 10px;
 	margin-bottom:30px;
 	padding: 5px;
+        word-wrap:break-word;
 }
+
+
 
 p.video-title {
 	text-align: center;
