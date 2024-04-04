@@ -57,3 +57,10 @@ p.video-title {
 	margin-left: -10px;
 		
 }
+
+.a-button {
+        display: inline-block;
+        margin: 10px;
+        border: 1px solid;
+        padding: 8px 26px;
+}
